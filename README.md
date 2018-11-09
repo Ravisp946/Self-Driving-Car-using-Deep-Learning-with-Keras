@@ -14,3 +14,5 @@ Finally to connect to the simulator and test our saved model we use drive.py whi
 You can initialize the speed of the car in that file.
 
 Play around the different parameters of code to get better results and achieve high accuracy.
+
+THESE FILES WERE RUN ON GOOGLE COLAB EXCEPT THE drive.py
